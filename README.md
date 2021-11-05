@@ -10,5 +10,5 @@ Segmento do projeto (O que seu projeto faz ou qual o objetivo dela).
 Modelo Conceitual
 Modelo Lógico
 
-"Criação e manipulação de banco de dados
-  Utilizando brModelo, SQL, MySQL, MySQL Workbench"
+"Criação e manipulação de banco de dados,
+  utilizando brModelo, SQL, MySQL, MySQL Workbench"
