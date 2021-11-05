@@ -9,3 +9,6 @@ Nome do Projeto com logo.
 Segmento do projeto (O que seu projeto faz ou qual o objetivo dela).
 Modelo Conceitual
 Modelo Lógico
+
+"Criação e manipulação de banco de dados
+  Utilizando brModelo, SQL, MySQL, MySQL Workbench"
